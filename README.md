@@ -1,4 +1,4 @@
-You need to get your own api key and replace it in index.js file on line 7 :
+You need to get your own OpenWeather API Key and replace it in index.js file on line 7 :
 
 ```javascript
 const APIKey = 'YOUR API KEY';
@@ -6,6 +6,6 @@ const APIKey = 'YOUR API KEY';
 
 
 # Screenshot
-Here we have project screenshot :
+Here is the project screenshot :
 
 ![screenshot](screenshot.jpg)
